@@ -1,4 +1,6 @@
-# More Camera Frames, Better Driving? Within-Scene Information Scaling in Autonomous Driving
+# Open-DriveScale
+
+**More Camera Frames, Better Driving? Within-Scene Information Scaling in Autonomous Driving**
 
 Yumao Liu<sup>1,∗</sup>, Rui Qian<sup>2,∗</sup>, Qiang Huang<sup>2</sup>, Jiahao Wei<sup>2</sup>, Tao Liu<sup>1</sup>, Xiangyu Li<sup>1</sup>, Ke Ma<sup>1,✉</sup>
 
