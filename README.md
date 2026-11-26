@@ -1,4 +1,4 @@
-# Open-DriveScale
+# DriveHz
 
 **More Camera Frames, Better Driving? Within-Scene Information Scaling in Autonomous Driving**
 
